@@ -1,4 +1,4 @@
-#Estructura de datos
+#Estructura de datos: Lista
 
 ##Listas
 mi_lista = [10, 'a', "cadena", 40, 50]
